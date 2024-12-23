@@ -1,0 +1,6 @@
+SERVER_ADDRESS=localhost
+SERVER_PORT=8443
+# Taille des blocs en octets (1 Mo = 1048576 octets)
+BLOCK_SIZE=4096
+SERVER_DOWNLOAD_DIR=./upload/
+RESUME_TOKEN_FILE=./resume.txt
